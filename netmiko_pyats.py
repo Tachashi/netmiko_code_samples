@@ -4,10 +4,10 @@ from pprint import pprint
 # Specify device information
 device = {
     'device_type': 'cisco_ios',
-    'ip': '192.168.100.201',
-    'username': 'test3',
+    'ip': 'xx.xx.xx.xx',
+    'username': 'test',
     'password': 'cisco',
-    'secret': 'test3',
+    'secret': 'test',
 } 
 
 # Connect to the device
